@@ -1,0 +1,13 @@
+body {
+  background: var(--bg);
+}
+
+.hero-title {
+  color: var(--text-primary);
+  font-size: var(--fs-4xl);
+}
+
+.primary-btn {
+  background: var(--primary);
+  color: var(--text-white);
+}
